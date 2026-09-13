@@ -1,167 +1,117 @@
 # Hi, I'm Zaki 👋
 
-## Neuromorphic AI Engineer | AI & Data Analytics Enthusiast
+## MSc Artificial Intelligence | Data Engineering | Python | SQL | Machine Learning
 
-I am an Artificial Intelligence postgraduate with hands-on experience in **machine learning, data analytics, Big Data systems, and AI engineering**. I enjoy building end-to-end AI and analytics solutions using Python, machine learning frameworks, cloud platforms, and data engineering tools.
+I am an Artificial Intelligence postgraduate with hands-on experience in **data engineering, machine learning, data analytics, and Big Data systems**.
 
-I have worked on projects involving **speech denoising, healthcare data pipelines, income prediction, business intelligence, and data visualization**. My main interests are **AI Engineering, Machine Learning Engineering, Data Analytics, and Data Engineering**.
+I enjoy building end-to-end solutions that transform raw data into clean, reliable, and analysis-ready datasets using **Python, SQL, Hadoop, HDFS, MapReduce, and cloud technologies**.
 
----
+I have worked with structured, semi-structured, and unstructured datasets, including a distributed healthcare data pipeline processing **200,000+ records**.
 
-## 🚀 About Me
-
-* 🎓 MSc Artificial Intelligence — Nottingham Trent University
-* 🎓 BSc Information Technology — International Islamic University Islamabad
-* 🤖 Interested in Neuromorphic AI, Machine Learning, Data Analytics, and Big Data
-* 🧠 Experienced in data cleaning, EDA, feature engineering, model evaluation, and insight generation
-* 📊 Worked with large-scale datasets of 200,000+ records using Python, Hadoop, HDFS, and MapReduce
-* ☁️ Familiar with cloud platforms including Azure and AWS
-* 📫 Email: [zakintue@gmail.com](mailto:zakintue@gmail.com)
-* 🔗 LinkedIn: https://www.linkedin.com/in/zakintu
+My current focus is on developing my skills in **Data Engineering, AI Engineering, Machine Learning, cloud data platforms, and automation**.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+### Data Engineering
 
 * Python
 * SQL
-
-### Python Libraries
-
-* pandas
-* NumPy
-* scikit-learn
-* Matplotlib
-* Seaborn
-* Tkinter
-
-### AI / Machine Learning
-
-* TensorFlow
-* Keras
-* CNN
-* VGG16 Transfer Learning
-* Logistic Regression
-* Decision Trees
-* Random Forest
-* XGBoost
-* K-Means Clustering
-* Model Evaluation
-* Feature Engineering
-
-### Data Analytics & Big Data
-
-* Exploratory Data Analysis
-* Data Cleaning
-* Data Visualization
+* Data Cleaning & Transformation
+* Data Pipelines
 * Hadoop
 * HDFS
 * MapReduce
 * Hadoop Streaming
-* Tableau-ready analytics
 
 ### Databases
 
 * MySQL
+* PostgreSQL
 * Oracle
 * SQLite
-* PostgreSQL
 
-### Tools & Platforms
+### AI & Machine Learning
 
+* scikit-learn
+* TensorFlow
+* Keras
+* Random Forest
+* XGBoost
+* K-Means
+* Feature Engineering
+* Model Evaluation
+
+### Data Analytics & Visualisation
+
+* pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Power BI
+* Tableau
+
+### Cloud & Development Tools
+
+* Microsoft Azure
+* AWS
 * Git
 * GitHub
 * GitLab
 * Docker
-* Azure
-* AWS
 * Jupyter Notebook
 
-### Methodologies
+---
 
-* CRISP-DM
-* Waterfall
+## 🚀 Featured Projects
+
+### 📊 Customer Shopping Behavior Analytics
+
+End-to-end customer analytics project using **Python, SQL, and Power BI**.
+
+Key work includes:
+
+* Data cleaning and transformation with pandas
+* Customer segmentation and behavioural analysis
+* SQL aggregations, subqueries, CTEs, CASE expressions, and window functions
+* Interactive Power BI dashboard
+* Business recommendations based on customer trends
+
+🔗 [View Project](https://github.com/zakintue-debug/customer-behavior-analytics-project)
 
 ---
 
-## 📌 Featured Projects
+### 🏥 Scalable Healthcare Big Data Pipeline
 
-### 🧠 Speech Denoising using Spiking Neural Networks
+Built a distributed data processing pipeline using **Python, Hadoop, HDFS, and MapReduce**.
 
-Designed an end-to-end AI system for speech denoising using **Spiking Neural Networks** and **Liquid State Machine architecture**.
+Key work includes:
 
-**Key highlights:**
+* Processing structured CSV, semi-structured NDJSON, and unstructured text data
+* Standardising heterogeneous datasets into a unified schema
+* Processing 200,000+ healthcare records
+* Producing cleaned and aggregated outputs for downstream analytics
 
-* Processed real-world audio data using normalization and resampling to 16kHz
-* Converted audio into spike-based representations using temporal and frequency encoding
-* Built a 300+ neuron reservoir for temporal signal processing
-* Implemented a supervised readout layer to reconstruct denoised audio
-* Achieved approximately 2.5 dB spectral gain improvement
-
-**Tech used:** Python, Spiking Neural Networks, Liquid State Machine, Signal Processing
+**Technologies:** Python, Hadoop, HDFS, MapReduce, Hadoop Streaming
 
 ---
 
-### 🏥 Scalable Big Data Pipeline for Healthcare Data
+### 🦄 Unicorn Companies Data Analysis
 
-Built a distributed healthcare data pipeline using **Hadoop and Python** to process structured, semi-structured, and unstructured datasets.
+Python-based analysis of global unicorn companies with exploratory analytics, data visualisation, search, filtering, and an interactive Tkinter application.
 
-**Key highlights:**
-
-* Ingested CSV, NDJSON, and text data into HDFS
-* Created custom mapper scripts to standardise data into a unified schema
-* Processed 200,000+ healthcare records using Hadoop Streaming and MapReduce
-* Extracted insights on drug usage, ratings, and healthcare service patterns
-* Exported clean aggregated data for Tableau dashboards
-
-**Tech used:** Python, Hadoop, HDFS, MapReduce, Hadoop Streaming, Tableau
+🔗 [View Project](https://github.com/zakintue-debug/unicorn-data-analysis-python)
 
 ---
 
-### 🌍 Global Income Analysis & Machine Learning Prediction
+## 🎓 Education
 
-Analysed global income data to study salary trends, income distribution, and segmentation patterns.
+**MSc Artificial Intelligence**
+Nottingham Trent University, UK
 
-**Key highlights:**
-
-* Analysed 13,000+ records
-* Applied data cleaning, feature engineering, and IQR-based outlier removal
-* Used K-Means clustering for segmentation analysis
-* Built Random Forest and XGBoost models for prediction
-* Improved model performance through hyperparameter tuning
-
-**Tech used:** Python, pandas, NumPy, scikit-learn, Random Forest, XGBoost, K-Means
-
----
-
-### 🦄 Unicorn Companies Data Analysis & Python GUI Application
-
-Performed exploratory data analysis on global unicorn companies and created an interactive Python GUI application.
-
-**Key highlights:**
-
-* Analysed 1,000+ global unicorn companies
-* Explored valuation, industry, and geographic distribution trends
-* Created visualizations using Matplotlib and Seaborn
-* Developed an interactive GUI using Tkinter
-* Added search and filtering functionality for faster company-level analysis
-
-**Tech used:** Python, pandas, NumPy, Matplotlib, Seaborn, Tkinter
-
----
-
-## 📊 GitHub Focus
-
-I am currently improving my GitHub portfolio by building clean, professional, and well-documented repositories focused on:
-
-* Machine Learning Projects
-* Data Analytics Dashboards
-* AI Engineering
-* Big Data Pipelines
-* Python Applications
-* Research-based AI Systems
+**BSc Information Technology**
+International Islamic University Islamabad
 
 ---
 
@@ -171,15 +121,20 @@ I am currently improving my GitHub portfolio by building clean, professional, an
 
 ---
 
-## 🌐 Languages
+## 🎯 Currently Developing
 
-* English — Advanced
-* Urdu — Native
+I am currently strengthening my Data Engineering portfolio through projects involving:
+
+* AWS data pipelines
+* ETL/ELT workflows
+* Data validation and quality checks
+* Cloud storage and analytics
+* Pipeline testing and monitoring
+* AI-ready dataset preparation
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/zakintue-debug
-* LinkedIn: https://www.linkedin.com/in/zakintu
-* Email: [zakintue@gmail.com](mailto:zakintue@gmail.com)
+* LinkedIn: [linkedin.com/in/zakintu](https://www.linkedin.com/in/zakintu)
+* GitHub: [github.com/zakintue-debug](https://github.com/zakintue-debug)
