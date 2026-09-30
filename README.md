@@ -1,140 +1,95 @@
 # Hi, I'm Zaki 👋
 
-## MSc Artificial Intelligence | Data Engineering | Python | SQL | Machine Learning
+### Data Analyst | MSc Artificial Intelligence | SQL • Python • Power BI • PostgreSQL
 
-I am an Artificial Intelligence postgraduate with hands-on experience in **data engineering, machine learning, data analytics, and Big Data systems**.
+I build end-to-end analytics solutions that turn raw data into reliable datasets, clear dashboards, and actionable business insights.
 
-I enjoy building end-to-end solutions that transform raw data into clean, reliable, and analysis-ready datasets using **Python, SQL, Hadoop, HDFS, MapReduce, and cloud technologies**.
+My portfolio combines **data analysis, SQL, business intelligence, data engineering, and applied AI**. I am currently focused on **Data Analyst, BI Analyst, Reporting Analyst, and analytics-focused roles in the UK**.
 
-I have worked with structured, semi-structured, and unstructured datasets, including a distributed healthcare data pipeline processing **200,000+ records**.
+## What I bring
 
-My current focus is on developing my skills in **Data Engineering, AI Engineering, Machine Learning, cloud data platforms, and automation**.
+- **SQL:** joins, CTEs, window functions, ranking, aggregations, validation, analytical queries
+- **Python:** pandas, NumPy, data cleaning, exploratory analysis, automation, visualisation
+- **Business Intelligence:** Power BI, DAX, KPI design, interactive dashboards, reporting
+- **Databases:** PostgreSQL, MySQL, Oracle, SQLite
+- **Data Engineering:** ETL-style workflows, data quality checks, Docker, Hadoop/HDFS/MapReduce
+- **AI & ML:** scikit-learn, TensorFlow, Keras, feature engineering, model evaluation
+- **Tools:** Git, GitHub, Jupyter, Docker, Azure, AWS
 
----
+## Featured Data Analytics Projects
 
-## 🛠️ Technical Skills
+### 🏥 NHS Hospital Performance Analytics
 
-### Data Engineering
+**Python • PostgreSQL • SQL • Power BI • DAX • Docker**
 
-* Python
-* SQL
-* Data Cleaning & Transformation
-* Data Pipelines
-* Hadoop
-* HDFS
-* MapReduce
-* Hadoop Streaming
+End-to-end healthcare analytics project using public NHS A&E data from **April 2024 to August 2026**.
 
-### Databases
+- Processed and validated **29 monthly files**
+- Analysed **5,714 provider-month records** across **207 organisation codes**
+- Built PostgreSQL analytical tables and provider benchmarking queries
+- Used CTEs, `RANK()`, `LAG()`, `PERCENTILE_CONT()` and `CORR()`
+- Built a **3-page Power BI dashboard** with KPI, trend and provider-level analysis
+- Investigated how department type changes the apparent relationship between demand and 4-hour performance
 
-* MySQL
-* PostgreSQL
-* Oracle
-* SQLite
+➡️ [View NHS Hospital Performance Analytics](https://github.com/zakintue-debug/nhs-hospital-performance-analytics)
 
-### AI & Machine Learning
+### 🛍️ Customer Shopping Behavior Analytics
 
-* scikit-learn
-* TensorFlow
-* Keras
-* Random Forest
-* XGBoost
-* K-Means
-* Feature Engineering
-* Model Evaluation
+**Python • SQL • Power BI • pandas**
 
-### Data Analytics & Visualisation
+Analysed **3,900 customer purchases** to explore customer behaviour, product performance, demographics, discounts, subscriptions and sales patterns.
 
-* pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Power BI
-* Tableau
+- Cleaned and transformed customer data in Python
+- Used SQL for business-focused analysis
+- Built an interactive Power BI dashboard
+- Developed customer segmentation and commercial recommendations
+- Produced supporting analysis, report and presentation assets
 
-### Cloud & Development Tools
+➡️ [View Customer Shopping Behavior Analytics](https://github.com/zakintue-debug/customer-behavior-analytics-project)
 
-* Microsoft Azure
-* AWS
-* Git
-* GitHub
-* GitLab
-* Docker
-* Jupyter Notebook
+### 🏗️ Scalable Healthcare Big Data Pipeline
 
----
+**Python • Hadoop • HDFS • MapReduce • Hadoop Streaming**
 
-## 🚀 Featured Projects
+Built a distributed healthcare data-processing workflow covering structured CSV, semi-structured NDJSON and unstructured text data.
 
-### 📊 Customer Shopping Behavior Analytics
-
-End-to-end customer analytics project using **Python, SQL, and Power BI**.
-
-Key work includes:
-
-* Data cleaning and transformation with pandas
-* Customer segmentation and behavioural analysis
-* SQL aggregations, subqueries, CTEs, CASE expressions, and window functions
-* Interactive Power BI dashboard
-* Business recommendations based on customer trends
-
-🔗 [View Project](https://github.com/zakintue-debug/customer-behavior-analytics-project)
-
----
-
-### 🏥 Scalable Healthcare Big Data Pipeline
-
-Built a distributed data processing pipeline using **Python, Hadoop, HDFS, and MapReduce**.
-
-Key work includes:
-
-* Processing structured CSV, semi-structured NDJSON, and unstructured text data
-* Standardising heterogeneous datasets into a unified schema
-* Processing 200,000+ healthcare records
-* Producing cleaned and aggregated outputs for downstream analytics
-
-**Technologies:** Python, Hadoop, HDFS, MapReduce, Hadoop Streaming
-
----
+- Processed **200,000+ healthcare records**
+- Standardised heterogeneous inputs into a unified schema
+- Produced clean and aggregated outputs for downstream analytics
+- Practised scalable processing with Hadoop and MapReduce
 
 ### 🦄 Unicorn Companies Data Analysis
 
-Python-based analysis of global unicorn companies with exploratory analytics, data visualisation, search, filtering, and an interactive Tkinter application.
+**Python • pandas • Data Visualisation • Tkinter**
 
-🔗 [View Project](https://github.com/zakintue-debug/unicorn-data-analysis-python)
+Exploratory analysis of global unicorn-company data with filtering, search, visualisation and an interactive Python interface.
 
----
+➡️ [View Unicorn Companies Data Analysis](https://github.com/zakintue-debug/unicorn-data-analysis-python)
 
-## 🎓 Education
+## Additional AI / Machine Learning Work
 
-**MSc Artificial Intelligence**
-Nottingham Trent University, UK
+My wider technical portfolio also includes machine-learning and reinforcement-learning projects. I keep these as supporting evidence of my AI background while positioning my main portfolio around practical analytics and business intelligence.
 
-**BSc Information Technology**
-International Islamic University Islamabad
+## Education
 
----
+**MSc Artificial Intelligence** — Nottingham Trent University, UK  
+**BSc Information Technology** — International Islamic University Islamabad
 
-## 📜 Certification
+## Certification
 
-* Microsoft Azure AI Fundamentals
+- Microsoft Azure AI Fundamentals
 
----
+## Currently Building
 
-## 🎯 Currently Developing
+- Advanced SQL and analytics workflows
+- Power BI dashboards and DAX
+- ETL/ELT and data-quality pipelines
+- Cloud data workflows
+- Automated testing and CI/CD for analytics projects
 
-I am currently strengthening my Data Engineering portfolio through projects involving:
+## Connect
 
-* AWS data pipelines
-* ETL/ELT workflows
-* Data validation and quality checks
-* Cloud storage and analytics
-* Pipeline testing and monitoring
-* AI-ready dataset preparation
+- [LinkedIn](https://www.linkedin.com/in/zakintu)
+- [GitHub](https://github.com/zakintue-debug)
 
----
-
-## 📫 Connect With Me
-
-* LinkedIn: [linkedin.com/in/zakintu](https://www.linkedin.com/in/zakintu)
-* GitHub: [github.com/zakintue-debug](https://github.com/zakintue-debug)
+> Open to opportunities where I can use data to solve real business problems and communicate insights clearly.
