@@ -1,95 +1,34 @@
-# Hi, I'm Zaki 👋
+# Zaki Khan
 
-### Data Analyst | MSc Artificial Intelligence | SQL • Python • Power BI • PostgreSQL
+### Data Analyst | MSc Artificial Intelligence — Distinction | SQL · Python · Power BI · PyTorch
 
-I build end-to-end analytics solutions that turn raw data into reliable datasets, clear dashboards, and actionable business insights.
+Based in Nottingham, UK. Seeking full-time Data Analyst, BI Analyst and Reporting Analyst opportunities, with a second focus on graduate/junior applied ML and research engineering roles. Eligible to work full-time in the UK; one week notice.
 
-My portfolio combines **data analysis, SQL, business intelligence, data engineering, and applied AI**. I am currently focused on **Data Analyst, BI Analyst, Reporting Analyst, and analytics-focused roles in the UK**.
+I build analytical workflows and investigate machine-learning models. My work spans data cleaning, PostgreSQL analysis, Power BI reporting, custom PyTorch spiking neural networks and reinforcement-learning evaluation.
 
-## What I bring
+## Analytics
 
-- **SQL:** joins, CTEs, window functions, ranking, aggregations, validation, analytical queries
-- **Python:** pandas, NumPy, data cleaning, exploratory analysis, automation, visualisation
-- **Business Intelligence:** Power BI, DAX, KPI design, interactive dashboards, reporting
-- **Databases:** PostgreSQL, MySQL, Oracle, SQLite
-- **Data Engineering:** ETL-style workflows, data quality checks, Docker, Hadoop/HDFS/MapReduce
-- **AI & ML:** scikit-learn, TensorFlow, Keras, feature engineering, model evaluation
-- **Tools:** Git, GitHub, Jupyter, Docker, Azure, AWS
+### [NHS Hospital Performance Analytics](https://github.com/zakintue-debug/nhs-hospital-performance-analytics)
+Python, pandas, PostgreSQL, SQL, Power BI, DAX and Docker. Processes 29 monthly files into 5,714 provider-month records across 207 organisation codes. Demonstrates validation, window functions, provider identity handling and a three-page dashboard. The README documents booked/non-booked attendance scope and remaining dashboard/cohort corrections.
 
-## Featured Data Analytics Projects
+### [Customer Shopping Behavior Analytics](https://github.com/zakintue-debug/customer-behavior-analytics-project)
+Python and SQL analysis of 3,900 purchase records, with segmentation and Power BI/reporting assets. Recommendations are exploratory hypotheses rather than measured business uplift.
 
-### 🏥 NHS Hospital Performance Analytics
+### [Unicorn Company Analysis](https://github.com/zakintue-debug/unicorn-data-analysis-python)
+Python exploratory analysis, plots, filtering and a Tkinter interface. A foundation project supporting the larger analytics work.
 
-**Python • PostgreSQL • SQL • Power BI • DAX • Docker**
+## Applied AI research
 
-End-to-end healthcare analytics project using public NHS A&E data from **April 2024 to August 2026**.
+My private ViZDoom research repository contains custom PyTorch surrogate-gradient spiking models, ANN comparisons and PPO controllers using frozen visual features. Work includes episode-aware evaluation, multiple training seeds, validation-based checkpoint selection and statistical comparisons. Static action classification and simulator control are separate experiments and are reported separately. Private code and research artifacts remain private.
 
-- Processed and validated **29 monthly files**
-- Analysed **5,714 provider-month records** across **207 organisation codes**
-- Built PostgreSQL analytical tables and provider benchmarking queries
-- Used CTEs, `RANK()`, `LAG()`, `PERCENTILE_CONT()` and `CORR()`
-- Built a **3-page Power BI dashboard** with KPI, trend and provider-level analysis
-- Investigated how department type changes the apparent relationship between demand and 4-hour performance
+## Workflow software
 
-➡️ [View NHS Hospital Performance Analytics](https://github.com/zakintue-debug/nhs-hospital-performance-analytics)
+A private JavaScript/Google Apps Script project demonstrates queue processing, idempotency, retries, task states, API integration and reporting. It is a workflow application under development; production autonomy and live end-to-end reliability are not claimed.
 
-### 🛍️ Customer Shopping Behavior Analytics
+## Education and availability
 
-**Python • SQL • Power BI • pandas**
+- MSc Artificial Intelligence, Nottingham Trent University — completed with Distinction
+- BSc Information Technology, International Islamic University Islamabad
+- Full-time UK opportunities; one week notice
 
-Analysed **3,900 customer purchases** to explore customer behaviour, product performance, demographics, discounts, subscriptions and sales patterns.
-
-- Cleaned and transformed customer data in Python
-- Used SQL for business-focused analysis
-- Built an interactive Power BI dashboard
-- Developed customer segmentation and commercial recommendations
-- Produced supporting analysis, report and presentation assets
-
-➡️ [View Customer Shopping Behavior Analytics](https://github.com/zakintue-debug/customer-behavior-analytics-project)
-
-### 🏗️ Scalable Healthcare Big Data Pipeline
-
-**Python • Hadoop • HDFS • MapReduce • Hadoop Streaming**
-
-Built a distributed healthcare data-processing workflow covering structured CSV, semi-structured NDJSON and unstructured text data.
-
-- Processed **200,000+ healthcare records**
-- Standardised heterogeneous inputs into a unified schema
-- Produced clean and aggregated outputs for downstream analytics
-- Practised scalable processing with Hadoop and MapReduce
-
-### 🦄 Unicorn Companies Data Analysis
-
-**Python • pandas • Data Visualisation • Tkinter**
-
-Exploratory analysis of global unicorn-company data with filtering, search, visualisation and an interactive Python interface.
-
-➡️ [View Unicorn Companies Data Analysis](https://github.com/zakintue-debug/unicorn-data-analysis-python)
-
-## Additional AI / Machine Learning Work
-
-My wider technical portfolio also includes machine-learning and reinforcement-learning projects. I keep these as supporting evidence of my AI background while positioning my main portfolio around practical analytics and business intelligence.
-
-## Education
-
-**MSc Artificial Intelligence** — Nottingham Trent University, UK  
-**BSc Information Technology** — International Islamic University Islamabad
-
-## Certification
-
-- Microsoft Azure AI Fundamentals
-
-## Currently Building
-
-- Advanced SQL and analytics workflows
-- Power BI dashboards and DAX
-- ETL/ELT and data-quality pipelines
-- Cloud data workflows
-- Automated testing and CI/CD for analytics projects
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/zakintu)
-- [GitHub](https://github.com/zakintue-debug)
-
-> Open to opportunities where I can use data to solve real business problems and communicate insights clearly.
+[LinkedIn](https://www.linkedin.com/in/zakintu/) · [GitHub](https://github.com/zakintue-debug)
