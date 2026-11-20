@@ -1,34 +1,19 @@
-# Zaki Khan
+# Zaki Khan | Data analyst
 
-### Data Analyst | MSc Artificial Intelligence — Distinction | SQL · Python · Power BI · PyTorch
+Based in Nottingham, UK. I’m seeking Junior Data Analyst, Reporting Analyst, Junior MI Analyst, Junior BI Analyst and Information Analyst roles.
 
-Based in Nottingham, UK. Seeking full-time Data Analyst, BI Analyst and Reporting Analyst opportunities, with a second focus on graduate/junior applied ML and research engineering roles. Eligible to work full-time in the UK; one week notice.
+## Selected analytics projects
 
-I build analytical workflows and investigate machine-learning models. My work spans data cleaning, PostgreSQL analysis, Power BI reporting, custom PyTorch spiking neural networks and reinforcement-learning evaluation.
+| Project | What to inspect |
+| --- | --- |
+| [NHS Hospital Performance Analytics](https://github.com/zakintue-debug/nhs-hospital-performance-analytics) | Python and PostgreSQL analysis of NHS A&E activity. The repository documents attendance definitions, provider cohorts, source reconciliation and remaining Power BI validation limits. |
+| [Customer Shopping Behavior Analytics](https://github.com/zakintue-debug/customer-behavior-analytics-project) | A pandas notebook prepares 3,900 purchase records for MySQL. The SQL and regression checks show how the choice of denominator and tie-breaking rule affects subscription comparisons and product rankings. |
+| [Unicorn Company Analysis](https://github.com/zakintue-debug/unicorn-data-analysis-python) | Python coursework exploring company valuations and industries, with notebook plots, search and a Tkinter desktop interface. |
 
-## Analytics
+## Experience and education
 
-### [NHS Hospital Performance Analytics](https://github.com/zakintue-debug/nhs-hospital-performance-analytics)
-Python, pandas, PostgreSQL, SQL, Power BI, DAX and Docker. Processes 29 monthly files into 5,714 provider-month records across 207 organisation codes. Demonstrates validation, window functions, provider identity handling and a three-page dashboard. The README documents booked/non-booked attendance scope and remaining dashboard/cohort corrections.
+As a Data Analyst Intern at Devsinc, I worked with financial services and healthcare data. My work included cleaning, ETL, preparation and analysis using SQL, Python, Microsoft Excel and Power BI.
 
-### [Customer Shopping Behavior Analytics](https://github.com/zakintue-debug/customer-behavior-analytics-project)
-Python and SQL analysis of 3,900 purchase records, with segmentation and Power BI/reporting assets. Recommendations are exploratory hypotheses rather than measured business uplift.
+I completed my MSc Artificial Intelligence at Nottingham Trent University in 2026 with Distinction. I also hold a BSc in Information Technology from International Islamic University Islamabad.
 
-### [Unicorn Company Analysis](https://github.com/zakintue-debug/unicorn-data-analysis-python)
-Python exploratory analysis, plots, filtering and a Tkinter interface. A foundation project supporting the larger analytics work.
-
-## Applied AI research
-
-My private ViZDoom research repository contains custom PyTorch surrogate-gradient spiking models, ANN comparisons and PPO controllers using frozen visual features. Work includes episode-aware evaluation, multiple training seeds, validation-based checkpoint selection and statistical comparisons. Static action classification and simulator control are separate experiments and are reported separately. Private code and research artifacts remain private.
-
-## Workflow software
-
-A private JavaScript/Google Apps Script project demonstrates queue processing, idempotency, retries, task states, API integration and reporting. It is a workflow application under development; production autonomy and live end-to-end reliability are not claimed.
-
-## Education and availability
-
-- MSc Artificial Intelligence, Nottingham Trent University — completed with Distinction
-- BSc Information Technology, International Islamic University Islamabad
-- Full-time UK opportunities; one week notice
-
-[LinkedIn](https://www.linkedin.com/in/zakintu/) · [GitHub](https://github.com/zakintue-debug)
+[LinkedIn](https://www.linkedin.com/in/zakintu/) · [GitHub profile](https://github.com/zakintue-debug)
